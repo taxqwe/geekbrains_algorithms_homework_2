@@ -7,7 +7,7 @@ public class CustomStack<T> {
 
     private int cursor = 0;
 
-    private Object[] array = new Object[10];
+    Object[] array = new Object[10];
 
     public void push(T item) {
         if (cursor == array.length) {
