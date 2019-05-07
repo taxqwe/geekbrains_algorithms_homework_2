@@ -1,12 +1,20 @@
 package nikolay;
 
+import nikolay.homework3.StringReverser;
+
 import java.util.*;
 import java.util.function.IntFunction;
 
 public class Main {
 
+
+    // YOU MAY FIND HOMEWORK IN INITIAL COMMIT. MAKE ANOTHER COMMIT CAUSE GEEKBRAINS ASKS FOR PULL-REQUEST AS HOMEWORK
+
+
     public static void main(String[] args) {
-        compareSortingTime(20, 10000);
+//        compareSortingTime(20, 10000);
+
+        runStringReverter();
     }
 
     private static Comparator getIntegerComparator() {
@@ -110,6 +118,24 @@ public class Main {
         public long getSecondListSortingTime() {
             return secondListSortingTime;
         }
+    }
+
+    private static void runStringReverter() {
+        StringReverser reverter = new StringReverser();
+        Scanner scanner = new Scanner(System. in);
+
+        System.out.println("String reverser is running");
+        System.out.println("print exit any time to close");
+        System.out.println("print string...");
+
+        while(true) {
+            String inputString = scanner.nextLine();
+            if (inputString.toLowerCase().equals("exit")) {
+                System.exit(0);
+            }
+            System.out.println(reverter.revert(inputString));
+        }
+
     }
 
 }
