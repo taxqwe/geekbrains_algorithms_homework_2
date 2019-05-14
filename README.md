@@ -1,12 +1,12 @@
 # geekbrains_algorithms_homework
 
-<h1> 1: </h1>
+<h1> Homework 1: </h1>
 output example:
 
 [![sort.th.png](https://imgbbb.com/images/2019/04/29/sort.th.png)](https://imgbbb.com/image/svSOx)
 
 
-<h1> 2: </h1>
+<h1> Homework 2: </h1>
 
 1. Реализовать рассмотренные структуры данных в консольных программах.
 2. Создать программу, которая переворачивает вводимые строки (читает справа налево).
@@ -22,7 +22,7 @@ output example:
 * tests for custom datatypes
 * StringReverser which may reverse strings. Uses deck inside.
 
-<h1> 3: </h1>
+<h1> Homework 3: </h1>
 
 1. Реализовать все классы, рассмотренные в данном уроке.
 2. Добавить поддержку поиска с конца для методов get и set
