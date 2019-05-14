@@ -21,3 +21,17 @@ output example:
 * deque
 * tests for custom datatypes
 * StringReverser which may reverse strings. Uses deck inside.
+
+<h1> 3: </h1>
+
+1. Реализовать все классы, рассмотренные в данном уроке.
+2. Добавить поддержку поиска с конца для методов get и set
+3. Добавить метод удаления по индексу
+4. Написать программу для тестирования класса
+
+<h2> What was done </h2>
+* added CustomLinkedList
+* methods set and get can find items by the end
+* added method removeByIndex
+* added test
+
