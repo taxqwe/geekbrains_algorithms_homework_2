@@ -30,6 +30,7 @@ output example:
 4. Написать программу для тестирования класса
 
 <h2> What was done </h2>
+
 * added CustomLinkedList
 * methods set and get can find items by the end
 * added method removeByIndex
