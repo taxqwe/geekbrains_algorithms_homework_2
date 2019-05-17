@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 class Homework3Tests {
 
-    @Test
+    @org.junit.jupiter.api.Test
     void stackTest() {
         CustomStack<Integer> stack = new CustomStack<>();
         assert stack.size() == 0 && stack.isEmpty();
