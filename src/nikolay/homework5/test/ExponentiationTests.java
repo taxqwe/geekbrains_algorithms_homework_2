@@ -1,10 +1,9 @@
 package nikolay.homework5.test;
 
 import nikolay.homework5.Exponentiation;
-import org.junit.jupiter.api.Test;
 
 public class ExponentiationTests {
-    @Test
+    @org.junit.jupiter.api.Test
     public void expTest() {
         int number = 3;
         int exp = 5;
