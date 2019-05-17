@@ -36,3 +36,9 @@ output example:
 * added method removeByIndex
 * added test
 
+<h1> Homework 4: </h1>
+1. Написать программу по возведению целого числа в натуральную степень циклическим и рекурсивным алгоритмом.
+
+<h2> What was done </h2>
+
+* added method for recursion-based and cycle-based exponentiation
