@@ -42,3 +42,14 @@ output example:
 <h2> What was done </h2>
 
 * added method for recursion-based and cycle-based exponentiation
+
+<h1> Homework 5: </h1>
+
+1. Создать и запустить программу для построения двоичного дерева. В цикле построить двадцать деревьев с глубиной в 6 уровней. Данные, которыми необходимо заполнить узлы деревьев, представляются в виде чисел типа int. Число, которое попадает в узел, должно генерироваться случайным образом в диапазоне от -100 до 100.
+2. Проанализировать, какой процент созданных деревьев являются несбалансированными.
+
+<h2> What was done </h2>
+
+* added CustomTreeMap class
+* added test for homework
+* with big data set it is about 17% trees generated randomly is non-balanced
