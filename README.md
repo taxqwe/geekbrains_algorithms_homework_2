@@ -61,3 +61,6 @@ output example:
 
 Интереса ради взят фрагмент московского метро. Найдем путь от Менделеевской до Лубянки :)
 ![alt text](https://i.ibb.co/k9LXmh4/Screenshot-2019-05-26-at-15-00-27.png)
+
+Полученный граф:
+![alt text](https://graphonline.ru/tmp/saved/qb/qbmxorMuZAKypGOE.png)
