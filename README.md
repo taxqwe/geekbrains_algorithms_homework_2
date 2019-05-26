@@ -53,3 +53,11 @@ output example:
 * added CustomTreeMap class
 * added test for homework
 * with big data set it is about 17% trees generated randomly is non-balanced
+
+<h1> Homework 5: </h1>
+1. Реализовать программу, в которой задается граф из 10 вершин. Задать ребра и найти кратчайший путь с помощью поиска в ширину.
+
+<h2> What was done </h2>
+
+Интереса ради взят фрагмент московского метро. Найдем путь от Менделеевской до Лубянки :)
+[![dz6](https://pasteboard.co/IgtPuUdM.png)
