@@ -43,7 +43,7 @@ public class CustomTreeMapTest {
 
     @Test
     public void homework() {
-        int countOfMaps = 10000;
+        int countOfMaps = 20;
 
         int balanced = 0;
         for (int i = 0; i < countOfMaps; i++) {
