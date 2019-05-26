@@ -60,5 +60,5 @@ output example:
 <h2> What was done </h2>
 
 Интереса ради взят фрагмент московского метро. Найдем путь от Менделеевской до Лубянки :)
-![dz6](blob:https://pasteboard.co/2e66dc74-2c0d-4f35-b5df-c73567ed2509)
+![dz6](https://pasteboard.co/2e66dc74-2c0d-4f35-b5df-c73567ed2509)
 
