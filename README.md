@@ -65,3 +65,5 @@ output example:
 Полученный граф:
 <br>
 ![alt text](https://graphonline.ru/tmp/saved/qb/qbmxorMuZAKypGOE.png)
+
+Получен ожидаемый результат: [3, 2, 8]
