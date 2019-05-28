@@ -56,6 +56,7 @@ public class CustomTreeMapTest {
 
         System.out.println("from " + countOfMaps + " CustomTreeMaps balanced is " + balanced + "\r\nnot balanced is " + (countOfMaps - balanced) + " trees");
         System.out.println("not balanced is " + ((((double) balanced) * 100) / (double) countOfMaps) + " %");
+        System.out.println("p.s. При большой выборке (в 10000 деревьев) несбалансировынными оказываются 16-17 (ближе к 17) процентов деревьев");
 
     }
 
